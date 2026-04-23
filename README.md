@@ -1,4 +1,3 @@
-# Movie-Ratings-Bias-Analysis
 # Movie Ratings Bias Analysis
 
 This repository contains a portfolio-ready exploratory data analysis project that investigates whether **Fandango movie ratings appeared inflated in 2015** compared with other popular rating platforms.
